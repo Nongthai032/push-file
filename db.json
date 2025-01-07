@@ -1,0 +1,135 @@
+{
+  "search": {
+
+  "data": [
+    {
+      "id": 1,
+      "songName": "Mưa tháng sáu",
+      "name": "mua thang sau",
+      "songArtist": "Văn Mai Hương, Grey D, Trung Quân",
+      "songSrc": "./Assets/songs/song2.mp3",
+      "songAvatar": "https://avatar-ex-swe.nixcdn.com/song/2023/06/02/8/e/5/9/1685712421549_640.jpg"
+    },
+    {
+      "id": 2,
+      "songName": "Mất kết nối",
+      "name": "mat ket noi",
+      "songArtist": "Dương Commic",
+      "songSrc": "./Assets/songs/song1.mp3",
+      "songAvatar": "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/8/c/1/6/8c166e2b9a0e45ca9a6c7bef40a81f74.jpg"
+    },
+    {
+      "id": 3,
+      "songName":  "Trái đất ôm Mặt trời",
+      "name": "trai dat om mat troi",
+      "songArtist":  "Kai Đinh, GREY D, Hoàng Thùy Linh",
+      "songSrc": "./Assets/songs/song3.mp3",
+      "songAvatar": "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/banner/4/a/e/1/4ae1d8230755ee0fbe1acff06048324e.jpg"
+    },
+    {
+      "id": 4,
+      "songName":  "Những lời hứa bỏ quên",
+      "name": "nhung loi hua bo quen",
+      "songArtist":  "Vũ",
+      "songSrc": "./Assets/songs/song3.mp3",
+      "songAvatar": "https://i1.sndcdn.com/artworks-3aUKP7x1yvYoqGMP-qByGxA-t500x500.jpg"
+    },
+    {
+      "id": 5,
+      "songName":  "Lệ Lưu Ly",
+      "name": "le luu ly",
+      "songArtist":  "Vũ Phụng Tiên, DT Tập Rap, Drum7",
+      "songSrc": "./Assets/songs/song3.mp3",
+      "songAvatar": "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/6/9/3/f/693f8f516bfaa717ef4043f11edfdde2.jpg"
+    },
+    {
+      "id": 6,
+      "songName":  "Cứ chill thôi",
+      "name": "cu chill thoi",
+      "songArtist":  "Chillies, Suni Hạ Linh, Rhymastic.",
+      "songSrc": "./Assets/songs/song3.mp3",
+      "songAvatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7w2X6cgbYTCXY9DtBxmTEIp_MF-5SkKOBXA&s"
+    },
+    {
+      "id": 7,
+      "songName":  "Dưới tán cây khô hoa nở",
+      "name": "duoi tan cay kho hoa no",
+      "songArtist":  "JACK - J97",
+      "songSrc": "./Assets/songs/song3.mp3",
+      "songAvatar": "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/7/1/f/c/71fcf0df868fa79aaaf5bf66ad63fc8a.jpg"
+    },
+    {
+      "id": 8,
+      "songName":  "Tái sinh",
+      "name": "tai sinh",
+      "songArtist":  "Tùng Dương",
+      "songSrc": "./Assets/songs/song3.mp3",
+      "songAvatar": "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/0/5/0/1/050158601068bfb3b08fd8da7276a32d.jpg"
+    },
+    {
+      "id": 9,
+      "songName":  "Cô đơn trên sofa",
+      "name": "co don tren sofa",
+      "songArtist":  "Trung Quân Idol",
+      "songSrc": "./Assets/songs/song3.mp3",
+      "songAvatar": "https://i1.sndcdn.com/artworks-xQh7Geydurt61jY9-xymcbQ-t500x500.jpg"
+    },
+    {
+      "id": 10,
+      "songName":  "Nàng thơ",
+      "name": "nang tho",
+      "songArtist":  "Hoàng Dũng",
+      "songSrc": "./Assets/songs/song3.mp3",
+      "songAvatar": "https://i.scdn.co/image/ab67616d0000b273248295fbbb32d0e4d71cc7ea"
+    },
+    {
+      "id": 11,
+      "songName":  "Thả vào mưa",
+      "name": "tha vao mua",
+      "songArtist":  "Trung Quân Idol",
+      "songSrc": "./Assets/songs/song3.mp3",
+      "songAvatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFHVO9azbYqMN-kb3L5_QPRAC0w7nnb73N8g&s"
+    },
+    {
+      "id": 12,
+      "songName":  "Tình đắng như ly cà phê",
+      "name": "tinh dang nhu ly ca phe",
+      "songArtist":  "nân x Ngơ",
+      "songSrc": "./Assets/songs/song3.mp3",
+      "songAvatar": "https://i.scdn.co/image/ab67616d0000b273e8dac23cef88f3ff801a083d"
+    },
+    {
+      "id": 13,
+      "songName":  "Nhìn vào mưa",
+      "name": "nhin vao mua",
+      "songArtist":  "Trung Quân Idol",
+      "songSrc": "./Assets/songs/song3.mp3",
+      "songAvatar": "https://avatar-ex-swe.nixcdn.com/playlist/2018/06/01/7/1/9/d/1527829000885_500.jpg"
+    },
+    {
+      "id": 14,
+      "songName":  "Yêu em rất nhiều",
+      "name": "yeu em rat nhieu",
+      "songArtist":  "Hoàng Tôn",
+      "songSrc": "./Assets/songs/song3.mp3",
+      "songAvatar": "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/6/8/0/7/6807770ea5dc38ceaaa3a70810d804b4.jpg"
+    },
+    {
+      "id": 15,
+      "songName":  "Đường một chiều",
+      "name": "duong mot chieu",
+      "songArtist":  "Huỳnh Tú",
+      "songSrc": "./Assets/songs/song3.mp3",
+      "songAvatar": "https://photo-resize-zmp3.zadn.vn/w600_r1x1_png/covers/f/b/fbbd3f71a02a1d1835a1d47344d0efd9_1476175481.png"
+    },
+    {
+      "id": 16,
+      "songName":  "Hơn cả yêu",
+      "name": "hon ca yeu",
+      "songArtist":  "Đức Phúc",
+      "songSrc": "./Assets/songs/song3.mp3",
+      "songAvatar": "https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/a/9/e/d/a9ed142c215560ab45f6b2b433907f90.jpg"
+    }
+  ]
+  }
+}
